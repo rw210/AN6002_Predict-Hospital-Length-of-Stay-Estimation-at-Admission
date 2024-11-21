@@ -1,2 +1,2 @@
-# Predict-Hospital-Length-of-Stay-Estimation-at-Admission
+# PredictHospitalLengthofStayEstimationatAdmission
 Using linear regression, CART, and random forest to predict patients' length of stay
